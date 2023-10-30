@@ -1,4 +1,4 @@
-## Konversi Jarak Program
+## Konversi Jarak
 KonversiJarak adalah program Java sederhana untuk mengkonversi jarak dari satu unit ke unit lainnya. Program ini mendukung konversi antara kilometer (km), mil (mi), dan meter (m).
 
 ## Penggunaan
